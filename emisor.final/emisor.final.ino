@@ -1,3 +1,5 @@
+
+//Primera revisión del proyecto
 #include <VirtualWire.h>
 
 char dato[1];
