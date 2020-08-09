@@ -1,3 +1,6 @@
+
+//Primera revision del codigo 
+
 #include <VirtualWire.h>
 
 uint8_t dato;
