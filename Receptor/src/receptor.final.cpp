@@ -16,37 +16,7 @@ int Di2 =11;
 
 int luz = 3;
 
-void avanzar()
-{
-  digitalWrite(D1,HIGH);
-  digitalWrite(Di1,HIGH);
-  digitalWrite(D2,HIGH);
-  digitalWrite(Di2,HIGH);
-}
 
-void retroceder()
-{
-  digitalWrite(D1,HIGH);
-  digitalWrite(Di1,HIGH);
-  digitalWrite(D2,HIGH);
-  digitalWrite(Di2,HIGH);
-}
-
-void derecha()
-{
-  digitalWrite(D1,HIGH);
-  digitalWrite(Di1,HIGH);
-  digitalWrite(D2,HIGH);
-  digitalWrite(Di2,HIGH);
-}
-
-void izquierda()
-{
-  digitalWrite(D1,HIGH);
-  digitalWrite(Di1,HIGH);
-  digitalWrite(D2,HIGH);
-  digitalWrite(Di2,HIGH);
-}
 
 
 void setup()
