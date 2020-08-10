@@ -19,6 +19,11 @@ int luz = 3;
 
 
 
+void girar()
+{
+  
+}
+
 void setup()
 {
     Serial.begin(9600);  // Debugging only
