@@ -14,6 +14,9 @@ int D2 =8;
 int Di1 =10;
 int Di2 =11;
 
+//hola mundo
+Serial.println();
+
 int luz = 3;
 void avanzar()
 {
